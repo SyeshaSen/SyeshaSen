@@ -37,9 +37,9 @@ Supported MVP1 launch and MVP2 planning.
 - Predictive Algorithm for Sleep Disorders — Random Forest and Logistic Regression models (Python, pandas, scikit-learn, matplotlib) predicting sleep disorder risk from a 374-row biometric/lifestyle dataset, achieving 89% overall accuracy and 98% accuracy identifying no-disorder cases.
 
 ### 🤝 Let's Connect!
-- GitHub: (github.com/SyeshaSen)
-- LinkedIn: (linkedin.com/in/syesha-sen/)
-- Email: (sen.sy@northeastern.edu)
+- GitHub: [github.com/SyeshaSen](github.com/SyeshaSen)
+- LinkedIn: [linkedin.com/in/syesha-sen/](linkedin.com/in/syesha-sen/)
+- Email: [sen.sy@northeastern.edu](sen.sy@northeastern.edu)
 
 <!--
 

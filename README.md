@@ -15,7 +15,6 @@ Technologies & Tools:
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-<!--
 
 Interests
 🖥️ Full-Stack Development: Building REST APIs, databases, and multi-persona web applications.
@@ -36,6 +35,8 @@ EdU Save — Full-stack discount platform (Java, SQL, REST API) with a normalize
 CookYourBooks — Desktop recipe management app (Java, JavaFX) built with hexagonal architecture, JSON persistence, OCR-based recipe import, and dual CLI/GUI interfaces under MVC/MVVM design.
 
 Predictive Algorithm for Sleep Disorders — Random Forest and Logistic Regression models (Python, pandas, scikit-learn, matplotlib) predicting sleep disorder risk from a 374-row biometric/lifestyle dataset, achieving 89% overall accuracy and 98% accuracy identifying no-disorder cases.
+
+<!--
 
 
 **SyeshaSen/SyeshaSen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
